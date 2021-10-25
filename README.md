@@ -1,4 +1,4 @@
-# CAUSALab_Papers
+# CAUSALab Papers
 Software used for papers published by CAUSALab members
 
 Paper 1: CALIBER Statins Cancer
