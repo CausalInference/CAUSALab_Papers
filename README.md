@@ -9,7 +9,7 @@ You may find the relevant author names in the Analytic Program Directory accompa
 
 ## CANCER-CAUSAL
 Guo, F., McGee, E.E., Chiu, Y.H., Giovannucci, E., Mucci, L.A., & Dickerman, B.A. (2024). Evaluating recommendation-based dietary and physical activity strategies for prostate cancer prevention: a target trial emulation in the Health Professionals Follow-up Study. American Journal of Epidemiology, kwae184.
-[Guo_AJE24] (Guo_AJE24)
+[Guo_AJE24](Guo_AJE24)
 
 *************************************************************************
 
