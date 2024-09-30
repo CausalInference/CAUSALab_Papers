@@ -14,3 +14,5 @@ Rein SM et al. Integrase strand-transfer inhibitor use and cardiovascular events
 Dickerman BA, Gerlovin H, Madenci AL, Kurgansky KE, Ferolito BR, Figueroa Muniz MJ, et al. Comparative effectiveness of BNT162b2 and mRNA-1273 vaccines in U.S. veterans. N Engl J Med. 2022;386(2):105-15. [Dickerman_NEnglJMed22_and_DickermanGerlovin_NatMicrobiol_23](Dickerman_NEnglJMed22_and_DickermanGerlovin_NatMicrobiol_23)
 
 Dickerman BA*, Gerlovin H*, Madenci AL, Figueroa Muniz MJ, Wise JK, Adhikari N, et al. Comparative effectiveness of third doses of mRNA-based COVID-19 vaccines in US veterans. Nat Microbiol. 2023 Jan;8(1):55-63. *Co-first authors. [Dickerman_NEnglJMed22_and_DickermanGerlovin_NatMicrobiol_23](Dickerman_NEnglJMed22_and_DickermanGerlovin_NatMicrobiol_23)
+
+Szmulewicz A, Madenci A, Ferguson R, Liang MH, Lew R, Katz IR, Hernán MA. Estimating the per-protocol effect of lithium on suicidality in a randomized trial of individuals with depression or bipolar disorder. J Psychopharmacol. 2023 Jun;37(6):539-544. doi: 10.1177/02698811231166460. Epub 2023 Apr 11. PMID: 37039306. [Szmulewicz_JPsychopharmacol23](Szmulewicz_JPsychopharmacol23)
