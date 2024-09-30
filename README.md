@@ -6,6 +6,13 @@ FirstInitialQCAuthor (YYYY) Analytic code for "Title of manuscript" [Source code
 You may find the relevant author names in the Analytic Program Directory accompanying the code.
 
 ************************************************************************
+
+##CANCER-CAUSAL
+Guo, F., McGee, E.E., Chiu, Y.H., Giovannucci, E., Mucci, L.A., & Dickerman, B.A. (2024). Evaluating recommendation-based dietary and physical activity strategies for prostate cancer prevention: a target trial emulation in the Health Professionals Follow-up Study. American Journal of Epidemiology, kwae184.
+[Guo_AJE24] (Guo_AJE24)
+
+*************************************************************************
+
 ## HIV-CAUSAL
 Rein SM et al. Integrase strand-transfer inhibitor use and cardiovascular events in adults with HIV: an emulation of target trials in the HIV-CAUSAL Collaboration and the Antiretroviral Therapy Cohort Collaboration. Lancet HIV. Volume 10, Issue 11, E723-E732. [Rein_LancetHIV23](Rein_LancetHIV23)
 
