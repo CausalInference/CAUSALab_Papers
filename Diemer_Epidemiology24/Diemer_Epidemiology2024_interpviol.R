@@ -304,3 +304,4 @@ study1_fig <- plot_instrumental_inequalities(instru=instru, k=3,
 study2_fig <- plot_instrumental_inequalities(instru=instru, k=3,
                                              ineqs = study2_ineqs,
                                              title= "Study 2")
+
