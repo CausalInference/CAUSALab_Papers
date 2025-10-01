@@ -170,7 +170,6 @@ N = length(plotlist)
 laym <- rbind(rep(1, N), rep(2:3), rep(4, N))
 gridimage <- grid.arrange(grobs = g, layout_matrix = laym, heights = c(1,9.5,2.5))
 
-
   
 
 
