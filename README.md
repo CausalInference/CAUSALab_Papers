@@ -22,4 +22,12 @@ Dickerman BA, Gerlovin H, Madenci AL, Kurgansky KE, Ferolito BR, Figueroa Muniz 
 
 Dickerman BA*, Gerlovin H*, Madenci AL, Figueroa Muniz MJ, Wise JK, Adhikari N, et al. Comparative effectiveness of third doses of mRNA-based COVID-19 vaccines in US veterans. Nat Microbiol. 2023 Jan;8(1):55-63. *Co-first authors. [Dickerman_NEnglJMed22_and_DickermanGerlovin_NatMicrobiol_23](Dickerman_NEnglJMed22_and_DickermanGerlovin_NatMicrobiol_23)
 
+Diemer EW. Interpreting Violations of Falsification Tests in the Context of Multiple Proposed Instrumental Variables. Epidemiology. 2024;35(5):638-641. doi:10.1097/ede.0000000000001751
+
+Diemer EW, Shi J, Swanson SA. Partial identification of the effects of sustained treatment strategies. Epidemiology. 2024;35(3):308-312. doi:10.1097/ede.0000000000001721
+
+Diemer EW, Shi J, Hernan MA, Swanson SA. Use of the instrumental inequalities in simulated mendelian randomization analyses with coarsened exposures. European Journal of Epidemiology. 2024;39(5):491-499. doi:10.1007/s10654-024-01130-8
+
 Szmulewicz A, Madenci A, Ferguson R, Liang MH, Lew R, Katz IR, Hernán MA. Estimating the per-protocol effect of lithium on suicidality in a randomized trial of individuals with depression or bipolar disorder. J Psychopharmacol. 2023 Jun;37(6):539-544. doi: 10.1177/02698811231166460. Epub 2023 Apr 11. PMID: 37039306. [Szmulewicz_JPsychopharmacol23](Szmulewicz_JPsychopharmacol23)
+
+
