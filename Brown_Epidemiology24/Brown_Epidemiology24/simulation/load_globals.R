@@ -1,0 +1,12 @@
+library(tidyverse)
+library(parallel)
+library(broom)
+library(gee)
+library(CWGEE)
+library(lmtest)
+library(glue)
+library(sandwich)
+library(readxl)
+source(here::here("R", "helpers.R"))
+source(here::here("R", "simulation_helpers.R"))
+select <- dplyr::select
