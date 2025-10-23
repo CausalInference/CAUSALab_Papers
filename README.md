@@ -11,15 +11,16 @@ You may find the relevant author names in the Analytic Program Directory accompa
 Guo, F., McGee, E.E., Chiu, Y.H., Giovannucci, E., Mucci, L.A., & Dickerman, B.A. (2024). Evaluating recommendation-based dietary and physical activity strategies for prostate cancer prevention: a target trial emulation in the Health Professionals Follow-up Study. American Journal of Epidemiology, kwae184.
 [Guo_AJE24](Guo_AJE24)
 
+McGee EE, Hernán MA, Giovannucci E, Mucci LA, Chiu YH, Eliassen AH, Dickerman BA. Estimating the effects of lifestyle interventions on mortality among cancer survivors: A methodological framework. Epidemiology. 2025;36(5):705-718. [McGee_Epidemiology25](McGee_Epidemiology25)
+
 *************************************************************************
 
 ## HIV-CAUSAL
 Rein SM et al. Integrase strand-transfer inhibitor use and cardiovascular events in adults with HIV: an emulation of target trials in the HIV-CAUSAL Collaboration and the Antiretroviral Therapy Cohort Collaboration. Lancet HIV. Volume 10, Issue 11, E723-E732. [Rein_LancetHIV23](Rein_LancetHIV23)
 
-************************************************************************
-
+*************************************************************************
 ## PREGNANCY
-Brown JP, Yland JJ, Williams PL, Huybrechts KF, Hernández-Díaz S. Accounting for Twins and Other Multiple Births in Perinatal Studies of Live Births Conducted Using Healthcare Administration Data. Epidemiology. 2025;36(2):165-173. doi:10.1097/EDE.0000000000001809 [Brown_Epidemiology24](Brown_Epidemiology24)
+Brown JP, Yland JJ, Williams PL, Huybrechts KF, Hernández-Díaz S. Accounting for Twins and Other Multiple Births in Perinatal Studies of Live Births Conducted Using Healthcare Administration Data. Epidemiology. 2025;36(2):165-173. doi:10.1097/EDE.0000000000001809  [Brown_Epidemiology24](Brown_Epidemiology24)
 
 ************************************************************************
 ## VA-CAUSAL METHODS CORE
